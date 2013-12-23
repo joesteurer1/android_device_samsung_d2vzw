@@ -1,0 +1,26 @@
+[
+  {
+    "remote": "github",
+    "repository": "CyanogenMod/android_device_samsung_msm8960-common",
+    "target_path": "device/samsung/msm8960-common",
+    "revision": "cm-11.0"
+  },
+  {
+    "remote": "github",
+    "repository": "CyanogenMod/android_hardware_samsung",
+    "target_path": "hardware/samsung",
+    "revision": "cm-11.0"
+  },
+  {
+    "remote": "github",
+    "repository": "ktoonsez/KT747-JB",
+    "target_path": "kernel/samsung/KT747-JB",
+    "revision": "aosp4.4"
+  },
+  {
+    "remote": "github",
+    "repository": "CyanogenMod/android_device_samsung_qcom-common",
+    "target_path": "device/samsung/qcom-common",
+    "revision": "cm-11.0"
+  }
+]
